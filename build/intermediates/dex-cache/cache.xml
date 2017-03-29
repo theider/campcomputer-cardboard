@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/libs/cardboard.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="419a0f2b571af0b7348265ed3bbead8e8d363fe6">
+        <dex dex="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/build/intermediates/pre-dexed/debug/cardboard-4506375096ac628a45b64fadd7e23eae2d5596b0.jar" />
+    </item>
+    <item
+        jar="/Users/theider/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f9d016dafb62e870e1bcc9358ecdb31a6c06ed6b.jar" />
+    </item>
+    <item
+        jar="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e3db84ef88d5ff30b9cf20a6b83017a092f3ba7f.jar" />
+    </item>
+    <item
+        jar="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/build/intermediates/pre-dexed/debug/classes-6cb75121f829e9242b4304ab7173f05327904598.jar" />
+    </item>
+    <item
+        jar="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/build/intermediates/pre-dexed/debug/classes-e615d5902daf3019e5bd5e662042010ac9b871f3.jar" />
+    </item>
+    <item
+        jar="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/libs/libprotobuf-java-2.3-nano.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c4d70e4409fdf6dc367b7db105751ab73bec766a">
+        <dex dex="/Users/theider/instrument/cardboard-jumpjam/PearAndroidCardboardApplication/app/build/intermediates/pre-dexed/debug/libprotobuf-java-2.3-nano-dec28825a8989792fe637473b510ccfecfb35d00.jar" />
+    </item>
+
+</items>
